@@ -1,6 +1,5 @@
 # Farmac-App
-
-Farmac-App es una prueba técnica que consiste en una aplicación full-stack dividida en dos directorios principales: **backend** y **frontend**. El backend está desarrollado con **Express** y utiliza **Prisma** para la comunicación con la base de datos, mientras que el frontend está desarrollado con **Next.js**. Este README proporciona una guía para instalar y ejecutar el proyecto localmente.
+Aplicación full-stack dividida en dos directorios principales: **backend** y **frontend**. El backend está desarrollado con **Express** y utiliza **Prisma** para la comunicación con la base de datos, mientras que el frontend está desarrollado con **Next.js**. Este README proporciona una guía para instalar y ejecutar el proyecto localmente.
 
 ## Estructura del Proyecto
 
